@@ -1,0 +1,26 @@
+[
+    {
+        "question":"Qui compose le générique français des <i>Simpsons</i>",
+        "choix":["Danny Elfmann","Jean-Jacques Debout","Alexis Rault","Michel Colombier"],
+        "reponse":0,
+        "info":"C'est le même générique pour tout les pays"
+    },{
+        "question":"Quel était la profession de la <i>Folle aux chats</i>",
+        "choix":[
+            "Vétérinaire",
+            "Institutrice",
+            "Barmaid",
+            "Avocate"
+        ],
+        "reponse":3
+    },{
+        "question":"Quel comédien français double à la fois Hans Taupman, Jasper, Nick Rivera, Julius Hibert, Kirk Van Houten et Moe Szyslack",
+        "choix":[
+            "Philippe Peythieu",
+            "Pierre Laurent",
+            "Michel Modo",
+            "Gilbert Levy"
+        ],
+        "reponse":2
+    }
+]

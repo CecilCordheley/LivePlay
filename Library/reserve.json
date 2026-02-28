@@ -1,0 +1,608 @@
+{
+    "DessinAnime": [
+        {
+            "question": "Dans l'épisode \"Le Hockey qui tue\" de la série les simpson, Dans quelle équipe joue Bart",
+            "choix": [
+                "Les Porcs enragés",
+                "Les Loups Enragés",
+                "Les chats sauvages",
+                "Les Lions sauvages"
+            ],
+            "reponse": 0
+        }
+    ],
+    "musique": [
+        {
+            "question": "Quel est le titre original de Hotel California",
+            "choix": [
+                "Mexican Reggae",
+                "California dreamin'",
+                "Californian Madness",
+                "Mexican Madness"
+            ],
+            "reponse": 0,
+            "info": "Lors du premier enregistrement de la chanson, la d\u00e9mo avait une ambiance reggae. Elle fut rebaptis\u00e9e suite \u00e0 plusieurs changements artistiques"
+        },
+        {
+            "question": "De quelle d\u00e9c\u00e9nie date le titre <i>Final Cowntdown<\/i>",
+            "choix": [
+                "70's",
+                "80's",
+                "90's",
+                "les ann\u00e9es 2000"
+            ],
+            "reponse": 1,
+            "info": "la musique est parue en 1986"
+        },
+        {
+            "question": "De quelle d\u00e9c\u00e9nie date le titre <i>Wind Of Change<\/i> de scorpion",
+            "choix": [
+                "70's",
+                "80's",
+                "90's",
+                "les ann\u00e9es 2000"
+            ],
+            "reponse": 2,
+            "info": "le titre est parue en 1991"
+        },
+        {
+            "question": "Quel groupe chante \"One night at bangkok\" ?",
+            "choix": [
+                "Murray Head",
+                "Frankie Goes To Hollywood",
+                "SuperTramp",
+                "The Clash"
+            ],
+            "reponse": 0
+        },
+        {
+            "question": "En 1976, lequel des fr\u00e8res jackson ne faisait plus partie du groupe",
+            "choix": [
+                "Mickael",
+                "Jermaine",
+                "Tito",
+                "Randy"
+            ],
+            "reponse": 1,
+            "info": "Le groupe signe en 1975 chez CBS Records, cependant Jermaine souhaitait rester avec Motown"
+        },
+        {
+            "question": "Dans l'album experience <i>\"ButterFly Ball & the Grasshopper's Feast\"<\/i> que joue le papillon nocturne",
+            "choix": [
+                "Magicien",
+                "Chanteur",
+                "Pianiste",
+                "Violoniste"
+            ],
+            "reponse": 0,
+            "info": "Le sixi\u00e8me de l'album s'appelle : The Magician Moth"
+        },
+        {
+            "question": "De quel album de Iggy Azalea est tir\u00e9 le titre <i>Fancy<\/i>",
+            "choix": [
+                "Reclassified",
+                "The New Classic",
+                "Digital Distortion",
+                "In My Defense"
+            ],
+            "reponse": 1
+        },
+        {
+            "question": "Dans l'album experience <i>\"ButterFly Ball & the Grasshopper's Feast\"<\/i> quel r\u00f4le de la comedia del arte joue le li\u00e8vre",
+            "choix": [
+                "Paillasse",
+                "Harlequin",
+                "Scaramouche",
+                "Pantalone"
+            ],
+            "reponse": 1
+        },
+        {
+            "question": "Quel groupe interpr\u00e8te le titre \"<i>Sunday Girl<\/i>\"",
+            "choix": [
+                "The Ramones",
+                "The Pretenders",
+                "For Non Blondes",
+                "Blondie"
+            ],
+            "reponse": 3,
+            "info": "La chanson appara\u00eet avec l'album Parallel Lines"
+        },
+        {
+            "question": "Quel titre de l'album City of City est une r\u00e9f\u00e9rence \u00e0 sherlock Holmes",
+            "choix": [
+                "Baker Street",
+                "Baskerville",
+                "The Valley of Fear",
+                "Study in Scarlet"
+            ],
+            "reponse": 0,
+            "info": "La partie saxo a \u00e9t\u00e9 assur\u00e9e par Raphael Ravenscroft"
+        },
+        {
+            "question": "Comment s'appelle le premier album des Beatles",
+            "choix": [
+                "Abbey Road",
+                "Let it Be",
+                "Help!",
+                "Please Please Me"
+            ],
+            "reponse": 3,
+            "info": "Please Please Me est sortie en 1963"
+        },
+        {
+            "question": "Qui fait office de narrateur dans l'album original du <i>Butterfly Ball & de Grasshopper's Feast<\/i>",
+            "choix": [
+                "James Earl Jones",
+                "Christopher Lee",
+                "Vincent Price",
+                "Petter Cushing"
+            ],
+            "reponse": 2
+        },
+        {
+            "question": "Quel groupe interpr\u00e8te \"<i>Hang On Sloopy<\/i>\" en 1965",
+            "choix": [
+                "The Beatle",
+                "The McCoys",
+                "Herman's Hermits",
+                "The Byrds"
+            ],
+            "reponse": 1
+        }
+    ],
+    "buffy": [
+        {
+            "question": "Lors du rituel de Janus qui se transforme en fant\u00f4me",
+            "choix": [
+                "Buffy",
+                "Alex",
+                "Willow",
+                "Giles"
+            ],
+            "reponse": 2
+        },
+        {
+            "question": "Comment s'appelle la bo\u00eete de nuit, dans laquelle les membres du scouby gang se r\u00e9unissent ?",
+            "choix": [
+                "Le refuge",
+                "Le bronze",
+                "Le sanctuaire",
+                "Le temple"
+            ],
+            "reponse": 1
+        },
+        {
+            "question": "Quel est le nom du groupe de musique de Oz",
+            "choix": [
+                "les Kinks",
+                "Les dingos",
+                "Lunatic Bishop",
+                "les Deamons daft"
+            ],
+            "reponse": 1,
+            "info": "Dingoes Ate My Baby de leur vrai nom"
+        },
+        {
+            "question": "Dans quel \u00e9pisode Tara Maclay a t-elle \u00e9t\u00e9 tu\u00e9e ?",
+            "choix": [
+                "\u00e0 la d\u00e9rive",
+                "Rouge passion",
+                "Entropie",
+                "La roue tourne"
+            ],
+            "reponse": 1
+        },
+        {
+            "question": "A quel groupe de vampires Angelus, Drusilla et Spike appartiennent-ils ?",
+            "choix": [
+                "Le d\u00e9luge",
+                "la l\u00e9gion",
+                "L'ouragan",
+                "la pl\u00e9iade"
+            ],
+            "reponse": 2
+        },
+        {
+            "question": "Dans le sens <i>vampirique<\/i> qui est Angelus pour Spike",
+            "choix": [
+                "Son fr\u00e8re",
+                "Son p\u00e8re",
+                "Son grand p\u00e8re",
+                "Son fils"
+            ],
+            "reponse": 2,
+            "info": "Angelus engendre Drusilla et Drusilla engendre Spike"
+        }
+    ],
+    "JeuxVideo": [
+        {
+            "question": "Dans la saga de jeux Gabriel Knight, comment s'appelle le grand p\u00e8re du personnage \u00e9ponyme",
+            "choix": [
+                "Peter",
+                "Phillip",
+                "Wolfgang",
+                "Harrison"
+            ],
+            "reponse": 3,
+            "info": "Heinz Ritter fuit l'allemagne et change de nom pour devenir Harrison Knight"
+        },
+        {
+            "question": "Dans le jeu Resident Evil, lequel de ces personnage ne fait pas parti de l'\u00e9quipe Alpha",
+            "choix": [
+                "Albert Wesker",
+                "Chris Redfield",
+                "Joseph Frost",
+                "Richard Aiken"
+            ],
+            "reponse": 3
+        },
+        {
+            "question": "Comment s'appelle l'assistante de Gabriel Knight dans le jeu \u00e9ponyme",
+            "choix": [
+                "Grace Nakamura",
+                "Grace Nakimura",
+                "Grace Nukamara",
+                "Grace Nikurama"
+            ],
+            "reponse": 1
+        },
+        {
+            "question": "Combien y a t-il de boss dans megaman 2",
+            "choix": [
+                6,
+                7,
+                8,
+                9
+            ],
+            "reponse": 2,
+            "info": "list:Metal Man|Wood Man|Bubble Man|Air Man|Crash Man|Heat Man|Flash Man|Quick Man"
+        },
+        {
+            "question": "Lequel de ces boss n'appara\u00eet pas dans le jeu Megaman 3",
+            "choix": [
+                "Magnet Man",
+                "Shadow Man",
+                "Spark Man",
+                "Dust Man"
+            ],
+            "reponse": 4,
+            "info": "Dust Man appara\u00eet dans MegaMan 4"
+        },
+        {
+            "question": "Dans quel opus de la saga MegaMan appara\u00eet WaveMan",
+            "choix": [
+                "MegaMan 3",
+                "MegaMan 4",
+                "MegaMan 5",
+                "MegaMan 6"
+            ],
+            "reponse": 2
+        },
+        {
+            "question": "Quel personnage de Street Fighter II dispara\u00eet dans l'opus suivant (Street Fighter III)",
+            "choix": [
+                "Akuma",
+                "Ryu",
+                "Ken",
+                "Guile"
+            ],
+            "reponse": 3
+        },
+        {
+            "question": "En quelle année est sortie le jeu PES (ISS Pro Evolution Soccer)",
+            "choix": [
+                "1999",
+                "2000",
+                "2001",
+                "2002"
+            ],
+            "reponse": 2
+        },
+        {
+            "question": "Dans la route \"classique\" de Super Metroid, quel est le deuxième que le joueur doit affronter",
+            "choix": [
+                "Torizo",
+                "Pantoon",
+                "Kraid",
+                "Draygon"
+            ],
+            "reponse": 0
+        },
+        {
+            "question": "Dans le jeu Street Fighter II, dans quel pays afronte t-on Blanka",
+            "choix": [
+                "en Inde",
+                "au Japon",
+                "en Thailand",
+                "au Br\u00e9sil"
+            ],
+            "reponse": 3
+        },
+        {
+            "question": "Dans le jeu Street Fighter V, dans quel pays afronte t-on Karin",
+            "choix": [
+                "en Angleterre",
+                "au USA",
+                "en Malaisie",
+                "au Japon"
+            ],
+            "reponse": 2
+        }
+    ],
+    "Serie": [
+        {
+            "question": "Quel est le titre du premier épisode de la série Scrubs",
+            "choix": [
+                "Mon premier jour",
+                "Bienvenue au sacré coeur",
+                "Mon rêve de docteur",
+                "Quoi de neuf docteur !"
+            ],
+            "reponse": 0
+        },
+        {
+            "question": "Quel personnage de la série Scrubs, voit son acteur apparaître également dans le film <i>Le Fugitif</i>",
+            "choix": [
+                "Janitor",
+                "Thed Buckland",
+                "Perry Cox",
+                "John Dorian"
+            ],
+            "reponse": 0,
+            "info": "Neil Flynn joue un agent de police que le protagoniste croise dans le métro aerien"
+        },
+        {
+            "question": "Quel est le pr\u00e9nom de MacGyver dans la s\u00e9rie \u00e9ponyme",
+            "choix": [
+                "Avery",
+                "Angus",
+                "Clint",
+                "Archibald"
+            ],
+            "reponse": 1,
+            "info": "Information de la question"
+        },
+        {
+            "question": "quel acteur de la s\u00e9rie Prison Break joue le r\u00f4le \u00e9ponyme de la s\u00e9rie John Doe",
+            "choix": [
+                "Peter Jacobson",
+                "Wentworth Miller",
+                "Dominic Purcell",
+                "Robert Knepper"
+            ],
+            "reponse": 2,
+            "joker": [
+                1,
+                3
+            ]
+        },
+        {
+            "question": "Quel acteur de la s\u00e9rie StarGate SG1 donne \u00e9galement la r\u00e9plique \u00e0 Richard Dean Anderson dans la s\u00e9rie McGyver",
+            "choix": [
+                "Don S. Davis",
+                "Beau Bridges",
+                "Tony Amendola",
+                "Ronny Cox"
+            ],
+            "reponse": 0
+        },
+        {
+            "question": "Quelle acteur de la s\u00e9rie <i>Buffy Vampire Slayer<\/i> tient le r\u00f4le titre dans une s\u00e9rie SpinOff ",
+            "choix": [
+                "Nicholas Brendon",
+                "Antony Steward Head",
+                "David Boreanaz",
+                "James Marsters"
+            ],
+            "reponse": 2
+        },
+        {
+            "question": "Quelle s\u00e9rie sortie en 1999, inspir\u00e9e par indiana jones, relate les aventures d'un professeur d'histoire anci\u00e8ne",
+            "choix": [
+                "Young Indiana Jones",
+                "Relic Hunter",
+                "Bonekickers",
+                "Allan Quatermain"
+            ],
+            "reponse": 1,
+            "info": "Serie connue sous le nom : \"Sydney Fox, l'aventuri\u00e8re\""
+        },
+        {
+            "question": "Quelle acteur de la s\u00e9rie <i>Buffy Vampire Slayer<\/i> tient \u00e9galement un r\u00f4le dans la s\u00e9rie <i>Merlin<\/i> ",
+            "choix": [
+                "Nicholas Brendon",
+                "Antony Steward Head",
+                "David Boreanaz",
+                "James Marsters"
+            ],
+            "reponse": 1,
+            "joker": [
+                0,
+                2
+            ],
+            "info": "Antony Steward Head joue le r\u00f4le de Rupert Giles dans la s\u00e9rie Buffy et Uther Pendragon dans la s\u00e9rie Merlin"
+        },
+        {
+            "question": "Quel acteur joue le r\u00f4le principal \u00e0 la fois dans <i>l'homme qui valait 3 milliard<\/i> et <i>l'homme qui tombe \u00e0 pic<\/i>",
+            "choix": [
+                "Richard Anderson",
+                "Alan Oppenheimer",
+                "Lee Majors",
+                "Darren McGavin"
+            ],
+            "reponse": 2,
+            "info": "Information de la question"
+        }
+    ],
+    "harryPotter": [
+        {
+            "question": "Lequel de ces sorciers n'a pas fait partie des 2 ordres du phoenix",
+            "choix": [
+                "Minerva McGonagall",
+                "Sirius Black",
+                "Remus Lupin",
+                "Alastor Maugrey"
+            ],
+            "joker": [
+                1,
+                2
+            ],
+            "reponse": 0
+        },
+        {
+            "question": "Qui est Lucius Malefoy pour Nymphadora Tonks",
+            "choix": [
+                "Son oncle",
+                "Son beau p\u00e8re",
+                "Son cousin",
+                "Son beau fr\u00e8re"
+            ],
+            "reponse": 0
+        },
+        {
+            "question": "Comment s'appelle le village voisin de Poudlard ?",
+            "choix": [
+                "Preolar",
+                "Pr\u00e9-au-Lard",
+                "Pr\u00e9au-lard",
+                "Pr\u00e9-olard"
+            ],
+            "reponse": 1
+        },
+        {
+            "question": "Qui double Ron Weasley dans la version fran\u00e7aise",
+            "choix": [
+                "Kelyan Blanc",
+                "Julien Allouf",
+                "Olivier Martret",
+                "Claude Giraud"
+            ],
+            "reponse": 2
+        },
+        {
+            "question": "Quel est le nom de la maison des Weasley ?",
+            "choix": [
+                "La Ferme",
+                "Le Terrier",
+                "Le rep\u00e8re",
+                "La rabouill\u00e8re"
+            ],
+            "reponse": 1
+        },
+        {
+            "question": "Avec <i>Avada Kedavra<\/i> et <i>endoloris<\/i> quel autre sort fait partie des sortil\u00e8ge impardonnable?",
+            "choix": [
+                "Impero",
+                "Stupefixe",
+                "Expeliarmus",
+                "Petrificus Totalus"
+            ],
+            "reponse": 0
+        },
+        {
+            "question": "comment s'appelle l'objet qui permet de se t\u00e9l\u00e9porter d'un endroit \u00e0 un autre ?",
+            "choix": [
+                "Port-aux-loin",
+                "Portoloin ",
+                "Porte-aux-loin",
+                "Portoloyn"
+            ],
+            "reponse": 1
+        },
+        {
+            "question": "Lorsqu'il faisait partie des Marauders, quel est le surnom de Peter Pettigrow ?",
+            "choix": [
+                "Queue-de-ver",
+                "Queudver",
+                "Queudvair",
+                "Queudvere"
+            ],
+            "reponse": 1
+        },
+        {
+            "question": "Quel model de balai Drago poss\u00e8de t-il dans <i>Harry Potter \u00e0 l'\u00e9cole des sorciers<\/i>",
+            "choix": [
+                "Nimbus 2000",
+                "Nimbus 2001",
+                "Comete 360",
+                "Comete 260"
+            ],
+            "reponse": 3
+        },
+        {
+            "question": "A part celle d'Hermione quelle autre baguette poss\u00e8de un ventricule de dragon en guise de coeur",
+            "choix": [
+                "Gilderoy Lockart",
+                "Neuville Londubat",
+                "Harry Potter",
+                "Sibylle Trelawney"
+            ],
+            "reponse": 0
+        },
+        {
+            "question": "D'apr\u00e8s les films, \u00e0 quel age les sorci\u00e8rs perdent-ils la Trace qui detecte quand ils usent de magie",
+            "choix": [
+                "15 ans",
+                "16 ans",
+                "17 ans",
+                "18 ans"
+            ],
+            "reponse": 2,
+            "info": "la Trace magique est un concept sp\u00e9cifique au monde cin\u00e9matographique de Harry Potter"
+        },
+        {
+            "question": "Lequel de ces sorciers n'a pas appartenu \u00e0 Serpentard",
+            "choix": [
+                "Merlin",
+                "Horace Slughorn",
+                "Severus Rogue",
+                "Sibylle Trelawney"
+            ],
+            "reponse": 3,
+            "info": "Sibylle Trelawney appartenait \u00e0 Serdaigle"
+        },
+        {
+            "question": "Comment s'appelle le chien d'Hagrid",
+            "choix": [
+                "Touffu",
+                "Crockdur",
+                "Patmol",
+                "Fenrir"
+            ],
+            "reponse": 1
+        }
+    ],
+    "finalFantasy": [
+        {
+            "question": "Qui est le character designer de Final Fantasy VII",
+            "choix": [
+                "Yoshitaka Amano",
+                "Tetsuya Nomura",
+                "Sh\u016bk\u014d Murase",
+                "Toshiyuki Itahana"
+            ],
+            "reponse": 1
+        },
+        {
+            "question": "Dans le jeu Final Fantasy VI, quel esper permet de restaurer peu \u00e0 peu les HP des alli\u00e9s",
+            "choix": [
+                "Kirin",
+                "Ramuh",
+                "Siren",
+                "Licorne"
+            ],
+            "reponse": 0
+        },
+        {
+            "question": "Dans le jeu Final Fantasy VI, quels royaumes s'afrontent selon l'histoire de l'op\u00e9ra",
+            "choix": [
+                "Le Nord et le Sud",
+                "L'est et L'Ouest",
+                "Le Sud et L'Ouest",
+                "L'Est et le Nord"
+            ],
+            "reponse": 1
+        }
+    ]
+}

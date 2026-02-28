@@ -1,0 +1,225 @@
+[
+    {
+        "question": "Avant Eric Legrand, qui doublait Vegeta dans la version Française",
+        "choix": [
+            "Philippe Ogouz",
+            "Thierry Bourdon",
+            "Philippe Ariotti",
+            "Frédéric Bouraly"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Dans la série Dragon Ball, pour quelle organisation travaille Tao Pai Pai",
+        "choix": [
+            "Ruban Bleu",
+            "Ruban Rouge",
+            "Ruban Vert",
+            "Ruban Jaune"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "Dans la série <i>Les Simpson</i>, comment s'appelle la mère de marge Simpson",
+        "choix": [
+            "Evelyne",
+            "Jaqueline",
+            "Constance",
+            "Felicity"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "Dans les chevaliers du zodiaque, qui entraîne Seyia",
+        "choix": [
+            "Marine de l'aigle",
+            "Saori Kido",
+            "Mitsumasa Kido",
+            "June du Caméléon"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Comment s'appelle l'antagoniste dans la s\u00e9rie <i>Inspecteur Gadget<\/i>",
+        "choix": [
+            "Dr. Mad",
+            "Dr. Gang",
+            "Dr. Wiked",
+            "Dr. Mean"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "O\u00f9 se d\u00e9roule l'action de <i>Denver le dernier dinosaure<\/i>",
+        "choix": [
+            "Denver",
+            "Los Angeles",
+            "San Fransisco",
+            "Palm Spring"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "Qui double l'inspecteur Gadget dans la s\u00e9rie \u00e9ponyme",
+        "choix": [
+            "Luc Durand",
+            "Philippe Surugue",
+            "Philippe Peythieu",
+            "Richard Darbois"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Qui est Sophie pour l'inspecteur gadget",
+        "choix": [
+            "Sa filleule",
+            "Sa ni\u00e8ce",
+            "Sa fille",
+            "Sa belle fille"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "Quelle est la race de Denver dans la s\u00e9rie \u00e9ponyme ?",
+        "choix": [
+            "Corythosaurus",
+            "Brachiosaurus",
+            "Parasaurolophus",
+            "Lambeosaurus"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Quelle est la principale diff\u00e9rence entre le pilote et les \u00e9pisodes de la s\u00e9rie <i>inspecteur gadget<\/i>",
+        "choix": [
+            "Il porte une moustache",
+            "Fino n'appara\u00eet pas",
+            "Dr. Gang n'a pas de chat",
+            "Sophie est brune"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Dans la s\u00e9rie <i>Tortues Ninja<\/i> quelle est l'arme principale de Rapha\u00ebl ? ",
+        "choix": [
+            "deux Sabres",
+            "des Sa\u00efs",
+            "un B\u00e2ton",
+            "des Nunchakus"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "Quelle est la couleur du bandeau de Donatello dans la s\u00e9rie <i>Tortue Ninja<\/i>",
+        "choix": [
+            "Bleue",
+            "Rouge",
+            "Orange",
+            "Violete"
+        ],
+        "reponse": 3
+    },
+    {
+        "question": "Dans la s\u00e9rie Tortue Ninja, pour quel chaine April O'Neil travaille t-elle ?",
+        "choix": [
+            "canal 4",
+            "canal 5",
+            "canal 6",
+            "canal 7"
+        ],
+        "reponse": 2
+    },
+    {
+        "question": "Dans la s\u00e9rie anim\u00e9e <i>Bus Magique<\/i>, comment s'appelle l'institutrice",
+        "choix": [
+            "Mme. Bille-en-T\u00eate",
+            "Mme. Villenbra",
+            "Mme. Fullthrottle",
+            "Mme. Tire-droit"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Dans la série les mini pouces, comment s'appelle la mère de Tom et Lucie",
+        "choix": [
+            "Hélène",
+            "Charlène",
+            "Sophie",
+            "Alice"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Dans la série <i>les mini pouces</i>, qui double Eric le Grand",
+        "choix": [
+            "Donald Reignoux",
+            "Damien Boisseau",
+            "Damien Witecka",
+            "Bernard Alane"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "Dans quelle \u00e9cole viennent les enfants du bus magique dans la s\u00e9rie \u00e9ponyme",
+        "choix": [
+            "Walkerville",
+            "JacksonVille",
+            "PlainsVille",
+            "Capital City"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Qui prete sa voix \u00e0 Shredder dans la s\u00e9rie <i>Tortue Ninja<\/i>",
+        "choix": [
+            "Marc Alfos",
+            "Jacques Frantz",
+            "Emmanuel Jacomy",
+            "Daniel Russo"
+        ],
+        "reponse": 3
+    },
+    {
+        "question": "Quel s\u00e9rie des ann\u00e9es 80 voit son premier \u00e9pisode adapt\u00e9 d'une nouvelle de Philip K. Dick. ",
+        "choix": [
+            "Cobra",
+            "Albator",
+            "Niky Larson",
+            "Sign\u00e9 Cat's Eyes"
+        ],
+        "reponse": 0,
+        "info": "Dans l'\u00e9pisode pilote, le personnage utilise un souvenir artificiel qui lui rend ses souvenir. Dans la nouvelle <i>Souvenir \u00e0 vendre<\/i> o\u00f9 une soci\u00e9t\u00e9 qui implante de faux souvenirs active accidentellement les souvenirs oubli\u00e9s du personnage principal qui s'av\u00e8re \u00eatre un agent secret."
+    },
+    {
+        "question": "Comment s'appelle l'arme gr\u00e9ff\u00e9e de Cobra dans la s\u00e9rie Eponyme",
+        "choix": [
+            "Rayon Delta",
+            "Rayon Omega",
+            "Rayon Alpha",
+            "Rayon Gamma"
+        ],
+        "reponse": 0,
+        "info": "PsychoGun en VO Il est gr\u00e9ff\u00e9 \u00e0 son bras"
+    },
+    {
+        "question": "Quel est le nom original du vaisseau dans la s\u00e9rie <i>Albator 84<\/i>",
+        "choix": [
+            "L'Arcadia IV",
+            "L'Arcadia V",
+            "L'Arcadia VI",
+            "Le Death Shadow"
+        ],
+        "reponse": 0,
+        "info": "Appell\u00e9 Atlantis en version fran\u00e7aise"
+    },
+    {
+        "question": "Quel est le vrai nom du capitaine Flame dans la série éponyme",
+        "choix": [
+            "Curtis Newton",
+            "Karl Edison",
+            "Franck Lighter",
+            "Sam Curtis"
+        ],
+        "reponse": 0
+    }
+]

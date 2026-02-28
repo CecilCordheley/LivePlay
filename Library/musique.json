@@ -1,0 +1,148 @@
+[
+    {
+        "question": "Quel groupe interprète Creep en 1992",
+        "choix": [
+            "Radiohead",
+            "The Verve",
+            "Red Hot Chili Peppers",
+            "REM"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Quelle chanson de Daniel Balavoine a été reprise par Liane Foly en 1999",
+        "choix": [
+            "La vie ne m'apprend rien",
+            "L'Aziza",
+            "Je ne suis pas un héros",
+            "Mon fils ma bataille"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Lequel de ces titres ne fait pas partie de la comédie musicale Starmania",
+        "choix": [
+            "Le Blues du businessman",
+            "Quand on arrive en ville",
+            "complainte de la serveuse automate",
+            "Vivre ou survivre"
+        ],
+        "reponse": 3
+    },
+    {
+        "question": "Quel titre fait office de thème musical pour le film <i>Cría cuervos</i>",
+        "choix": [
+            "Hasta Siempre",
+            "Despacito",
+            "Porque te vas",
+            "Piensa En Mi"
+        ],
+        "reponse": 2
+    },
+    {
+        "question": "Quelle chanson interprété par Franky Valli a été reprise par Claude François ?",
+        "choix": [
+            "What a night",
+            "Sherry",
+            "Beggin",
+            "Ragg Doll"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Qui chante \"<i>I Love Rock 'n Roll</i>\" en 1975",
+        "choix": [
+            "The Ramones",
+            "The Arrows",
+            "Joan Jett & the blackhearts",
+            "Blondie"
+        ],
+        "reponse": 1,
+        "media": "Arrows.wav",
+        "info": "Joan Jett a repris la chanson en 1981"
+    },
+    {
+        "question": "Qui est l'interprète de <i>The Dock Of The Bay</i>",
+        "choix": [
+            "Otis Redding",
+            "Sam Cooke",
+            "Wilson Pickett",
+            "John Lee Hooker"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Qui interprète la chanson <i>Love Is All</i> dans l'album \"ButterFly Ball & the Grasshopper's Feast\"",
+        "choix": [
+            "Roger Glover",
+            "Ronnie Dio",
+            "John Lawton",
+            "Eddie Hardin"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "Qui interprète pour la première fois la version féminine de \"<i>Killing me Softly</i>\"",
+        "choix": [
+            "Nancy Sinatra",
+            "Anne Murray",
+            "Roberta Flack",
+            "Lori Lieberman"
+        ],
+        "reponse": 3,
+        "info": "Lori Lieberman a interprété la chanson pour la première fois en 1972 et Roberta flack en 1973"
+    },
+    {
+        "question": "Quelle chanson de Manau est adaptée de la musique Tri Martolod",
+        "choix": [
+            "Mais qui est la belette ?",
+            "Panique celtique",
+            "La Tribu de Dana",
+            "Le Chien du forgeron"
+        ],
+        "reponse": 2
+    },
+    {
+        "question": "Comment s'appelle le premier titre du groupe <i>2be3</i>",
+        "choix": [
+            "2Be3",
+            "Partir un jour",
+            "magnolia forever",
+            "Toujours là pour toi"
+        ],
+        "reponse": 1,
+        "media": "2be3.wav"
+    },
+    {
+        "question": "Quelle chanson interprètée par France Gall a été récompensée à l'Eurovision en 1965",
+        "choix": [
+            "Poupée de cire, poupée de son",
+            "Laisse tomber les fille",
+            "les sucettes",
+            "Baby bop"
+        ],
+        "reponse": 0,
+        "media": "poupeeCire.wav",
+        "info": "écrite et composée en 1965 par Serge Gainsbourg inspirée du 4ᵉ mouvement de la Sonate pour piano nᵒ 1 en fa mineur op.2-1 de Beethoven"
+    },
+    {
+        "question": "Quelle chanson de Sonny and Cher est diffusée au réveil du protagoniste dans le film <i>Un jour sans fin</i>",
+        "choix": [
+            "I got you Babe",
+            "Little Man",
+            "Just You",
+            "The Beat Goes On"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Quel oeuvre de Marc Twain sert de titre pour le groupe \"<i>Rush</i>\"",
+        "choix": [
+            "The Adventures of Tom Sawyer",
+            "Luck",
+            "A Dog Tale",
+            "A Tramp Abroad"
+        ],
+        "reponse": 0
+    }
+]

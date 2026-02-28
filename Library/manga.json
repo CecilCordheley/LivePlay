@@ -1,0 +1,164 @@
+[
+    {
+        "question": "Dans la saga bleach comment s'appelle l'arme permettant de \"chasser\" les Hollows ",
+        "choix": [
+            "Zanpakutō",
+            "Suraisu",
+            "Kariudo",
+            "Tamashī dorobō"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Dans la saga bleach, où se situe l'Académie Shin'ō qui entraine et forme les Shinigami",
+        "choix": [
+            "Seireitei",
+            "Karakura",
+            "Jigoku",
+            "Tengoku"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Comment s'appelle la dernière forme de l'arme d'un Shinigami dans la saga Bleach",
+        "choix": [
+            "Bankai",
+            "Tamashī-Z",
+            "Fainaru",
+            "Kaifuku"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Comment s'appelle un manga destiné à un public d'enfant",
+        "choix": [
+            "Shonen",
+            "Kodomo",
+            "Shojo",
+            "Seijin"
+        ],
+        "reponse": 1,
+        "info": "Doraemon est un Kodomo"
+    },
+    {
+        "question": "Dans le manga Berserk, comment s'appelle l'escouade rejoint par Guts",
+        "choix": [
+            "La Troupe du Faucon",
+            "L'Escouade de l'Albatros",
+            "L'Escadron de l'Aigle",
+            "La Section du Condore"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Dans le manga Higschool Kimengumi (Colège Fou,Fou,Fou en français), quel est le surnom de Rei Ichido",
+        "choix": [
+            "Rei pas de sourcils",
+            "Rei pas de cheveux",
+            "Rei gros sourcils",
+            "Rei grand front"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Dans le manga Higschool Kimengumi (Colège Fou,Fou,Fou en français), quel est le surnom de Shusse Kiyoshi (Jeannot en français)",
+        "choix": [
+            "Le Fourbe",
+            "Le Pervers",
+            "Le Lubrique",
+            "Le Vicieux"
+        ],
+        "reponse": 3
+    },
+    {
+        "question": "Dans la saga Naruto, en comptant l'ensemble des villages cachés, combien y a t-il de Kage",
+        "choix": [
+            3,
+            5,
+            7,
+            9
+        ],
+        "reponse": 1,
+        "info": "list:Hokage (Konoha)|Kazekage (Suna)|Mizukage (Kiri)|Raikage (Kumo)|Tsuchikage (Iwa)"
+    },
+    {
+        "question": "Dans le manga Higschool Kimengumi, comment s'appelle l'établissement dans lequel étudie les protagonistes ?",
+        "choix": [
+            "Colège Tsurusu",
+            "Lycée Itchio",
+            "Collège Kibatsuna",
+            "Lycée Kurutta"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "Comment s'appelle l'artefact permettant à Griffith de basculer en \"enfer\" et se métamorphoser en démon",
+        "choix": [
+            "Behélit",
+            "Necrolit",
+            "tanathos",
+            "twilight shard"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Dans la saga Naruto, qui n'a jamais utiliser la technique des milles oiseaux",
+        "choix": [
+            "Kakashi Hatake",
+            "Sarada Uchiwa",
+            "Sasuke Uchiwa",
+            "Obito Uchiwa"
+        ],
+        "reponse": 3
+    },
+    {
+        "question": "Quel élément est associé au village Konoa",
+        "choix": [
+            "Eau",
+            "Terre",
+            "Air",
+            "Feu"
+        ],
+        "reponse": 3
+    },
+    {
+        "question": "Avec Jiraya et Tsunade, quel ninja faisait partie du trio legendaire Sannin",
+        "choix": [
+            "Kakashi Hatake",
+            "Hiruzen Sarutobi",
+            "Orochimaru",
+            "Minato Namikaze"
+        ],
+        "reponse": 2
+    },
+    {
+        "question": "Dans le manga Mahō no Tenshi Kurīmī Mami (<i>Creamy, merveilleuse Creamy</i>), qui confère ses pouvoir à Yū Morisawa",
+        "choix": [
+            "Pino Pino",
+            "Pico Pico",
+            "Poci",
+            "Nega"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Dans la saga Hunter X Hunter, comment s'appelle le personnage principal",
+        "choix": [
+            "Gon",
+            "Kirua",
+            "Aruka",
+            "Kurapika"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Dans la saga Hunter X Hunter, dans quelle spécialité étudie Leolio Paradinaito",
+        "choix": [
+            "Mathématiques",
+            "Médecine",
+            "Chimie",
+            "Physique"
+        ],
+        "reponse": 1
+    }
+]

@@ -1,0 +1,285 @@
+[
+    {
+        "question": "Qui interprète Nick Quasi-Sans-Tête dans le film \"Harry Potter à l'école des Sorcier\"",
+        "choix": [
+            "John Cleese",
+            "Ralph Fiennes",
+            "Gary Oldman",
+            "Jason Anthony"
+        ],
+        "reponse": 0,
+        "infos": "Ralph Fiennes joue Voldemort, Gary Oldman joue Sirius Black,<br> et Jason Anthony joue la voix de Nick dans le jeu L'héritage de Poudlard"
+    },
+    {
+        "question": "Quel est le deuxième prénom de Fleur Delacour",
+        "choix": [
+            "Gabrielle",
+            "Isabelle",
+            "Ariane",
+            "Apolline"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "A quelle maison appartient Nick Quasi-Sans-Tête",
+        "choix": [
+            "Poufsouffle",
+            "Gryffondor",
+            "Serdaigle",
+            "Serpentard"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "De quelle maison, Pomona Chourave a t-elle était la directrice",
+        "choix": [
+            "Poufsouffle",
+            "Gryffondor",
+            "Serdaigle",
+            "Serpentard"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Où se situe l'academie Beauxbâtons",
+        "choix": [
+            "En Normandie",
+            "En Alsace",
+            "Dans les Pyrénées",
+            "En Bretagne"
+        ],
+        "reponse": 2
+    },
+    {
+        "question": "De quelle maison, Filius Flitwick a t-il était le directeur",
+        "choix": [
+            "Poufsouffle",
+            "Gryffondor",
+            "Serdaigle",
+            "Serpentard"
+        ],
+        "reponse": 2
+    },
+    {
+        "question": "Qui interprète Voldemort dans le film \"Harry Potter à l'école des Sorcier\"",
+        "choix": [
+            "Ralph Fiennes",
+            "Gary Oldman",
+            "Jason Anthony",
+            "Richard Bremmer"
+        ],
+        "reponse": 3
+
+    },
+    {
+        "question": "Quel est le nom de jeune fille de la mère de Harry Potter",
+        "choix": [
+            "Simmons",
+            "Hills",
+            "Dudley",
+            "Evans"
+        ],
+        "reponse": 3
+    },
+    {
+        "question": "Qui est la directrice de l'academie Beauxbâtons",
+        "choix": [
+            "Madame Claude",
+            "Madame Maxime",
+            "Madame Tusso",
+            "Madame Poussin"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "Jusqu'en 2010, lequel de ces personnages n'a pas vue son acteur incarner un role dans <i>doctor who</i> ?",
+        "choix": [
+            "Mimi Gemiarde",
+            "Dumbledor",
+            "Ron Weasley",
+            "Arthur Weasley"
+        ],
+        "reponse": 2,
+        "info": "Mimi gémiarde interprété par <i>Shirley Henderson</i> a joué Ursula Blake<br>Dumbledor interprété par Michael Gambon a joué Kazran / Elliot Sardick<br> Arthur Weasley interprété par Mark Williams joue Brian Williams dans doctor who"
+    },
+    {
+        "question": "Quel est le deuxième prénom de Mimi Geignarde",
+        "choix": [
+            "Alice",
+            "Myrtle",
+            "Elisabeth",
+            "Minerva"
+        ],
+        "reponse": 2,
+        "info": "Myrtle Elizabeth Warren"
+    },
+    {
+        "question": "A quelle maison appartenait Mimi Geignarde",
+        "choix": [
+            "Gryffondor",
+            "Poufsouffle",
+            "Serdaigle",
+            "Serpentard"
+        ],
+        "reponse": 2
+    },
+    {
+        "question": "A quel age harry potter a rejoint l'école des sorciers pour sa première année",
+        "choix": [
+            "8 ans",
+            "9 ans",
+            "10 ans",
+            "11 ans"
+        ],
+        "reponse": 3
+    },
+    {
+        "question": "Comment appelle t-on une personne nait d'un parent sorcier mais sans pouvoir magique",
+        "choix": [
+            "Cracmol",
+            "Moldu",
+            "Maledictus",
+            "Hybride"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "A quelle maison appartient Luna Lovegood ?",
+        "choix": [
+            "Gryffondor",
+            "Poufsouffle",
+            "Serdaigle",
+            "Serpentard"
+        ],
+        "reponse": 2
+    },
+    {
+        "question": "Dans le livre <i>harry potter à l'école des sorcier</i>, où se rencontre Harry et Drago Malfoy",
+        "choix": [
+            "dans le Poudlard Express",
+            "Chez madame Guipure",
+            "Dans le grand escalier de Poudlard",
+            "Dans la salle de banquet"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "De quel bois est faite la baguette de Drago Malfoy",
+        "choix": [
+            "Houx",
+            "Aubepine",
+            "Noyer",
+            "Cerisier"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "A partir de quel livre <i>la pensine</i> a t-elle était introduite",
+        "choix": [
+            "L'école des sorciers",
+            "La chambre des secrets",
+            "Le prisonier d'Azkaban",
+            "La coupe de feu"
+        ],
+        "reponse": 3
+    },
+    {
+        "question": "D'après les romans, en quelle année déroulent les événements des <i>Reliques de la morts</i>",
+        "choix": [
+            "1997",
+            "2001",
+            "2007",
+            "2010"
+        ],
+        "reponse": 0,
+        "info": "Le livre est sortie en 2007 mais les évenements, eux, se déroulent en 1997"
+    },
+    {
+        "question": "Avec le médaillon de Serpentard et nagini, quel autre horcruxe a été détruit à l'aide de l'épée de Grifondor",
+        "choix": [
+            "Coupe de Helga Poufsouffle",
+            "Bague de Gaunt",
+            "Diadème de Rowena Serdaigle",
+            "Journal de Jedusor"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "Qui a été sacrifié afin de créé l'horcruxe du Journal de Jedusor",
+        "choix": [
+            "Alice et Franck Londubat",
+            "Mimi Gégniarde",
+            "James et Lilly Potter",
+            "Sirius Black"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "Qui est Nymphadora Tonks pour Drago Malfoy",
+        "choix": [
+            "Sa cousine",
+            "Sa belle-soeur",
+            "Sa maraine",
+            "Sa nièce"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Quel est le prénom de Mimie Gégniarde",
+        "choix": [
+            "Michelle",
+            "Myrtle",
+            "Miriam",
+            "Mina"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "Où se situe le quartier général de l'ordre du phoenix ?",
+        "choix": [
+            "12 King's Road",
+            "12 Grimmaurd Place ",
+            "12 Leicester Square",
+            "12 Brick Lane"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "Comment s'appelle l'elfe de maison qui travaille pour la famille black ?",
+        "choix": [
+            "dobby",
+            "kreature",
+            "creature",
+            "doobby"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "Quel est le deuxième prénom du frère de Sirius Black ?",
+        "choix": [
+            "Arctarus",
+            "Aturus",
+            "Arcturus",
+            "Atarus"
+        ],
+        "reponse": 2
+    },
+    {
+        "question": "Qui enseigne le sort de léviation dans le livre <i>Harry Potter à l'école des sorcier</i>",
+        "choix": [
+            "Minerva McGonagall",
+            "Severus Rogue",
+            "Filius Flitwick",
+            "Albus Dumbledore"
+        ],
+        "reponse": 2
+    },{
+    
+        "question":"Qui double Hermione granger",
+    
+        "choix":["Manon Azem","Anik Vermette"],
+    
+        "reponse":0
+    
+    }
+]

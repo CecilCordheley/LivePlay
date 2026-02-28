@@ -1,0 +1,153 @@
+[
+    {
+        "question": "Qui a créé la série <i>La petite maison dans la prairie</i> ?",
+        "choix": [
+            "Richard Bull",
+            "Michael Landon",
+            "Linwood Boomer",
+            "Jason Bateman"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "En quelle année est sortie <i>la petite maison dans la prairie</i> ?",
+        "choix": [
+            "1972",
+            "1973",
+            "1974",
+            "1975"
+        ],
+        "reponse": 2
+    },
+    {
+        "question": "Qui interprète Samantha Stephen dans la série <i>Ma sorcière bien-aimée</i> ?",
+        "choix": [
+            "Agnes Moorehead",
+            "Elisabeth Welch",
+            "Elizabeth Taylor",
+            "Elizabeth Montgomery"
+        ],
+        "reponse": 3
+    },
+    {
+        "question": "Dans la série Starsky et Hutch, qui intérprétait Kenneth Hutchinson dit Hutch",
+        "choix": [
+            "Antonio Fargas",
+            "David Soul",
+            "Bernie Hamilton",
+            "Paul Michael Glaser"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "En quelle année est sortie la série <i>Starsky et Hutch</i> ?",
+        "choix": [
+            "1973",
+            "1974",
+            "1975",
+            "1976"
+        ],
+        "reponse": 2
+    },
+    {
+        "question": "Dans quelle ville se déroule la série <i>Starsky et Hutch</i> ?",
+        "choix": [
+            "New York",
+            "Los Angeles",
+            "San Francisco",
+            "Anaheim"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Dans <i>Starsky et Hutch</i>,de quel modèle est le véhicule des protagoniste ",
+        "choix": [
+            "Ford Gran Torino",
+            "Dodge Monaco",
+            "Lincoln Continental Mark IV",
+            "Plymouth Duster"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Dans la série \"Ma Sorcière Bien aimée\" comment s'appelle l'agence de publicité dans laquelle travaille Jean-Pierre Stephens",
+        "choix": [
+            "McMillan & Tate",
+            "Miyer & Tate",
+            "McMann & Tate",
+            "McMillan & Hilton"
+        ],
+        "reponse": 2
+    },
+    {
+        "question": "Dans la série originale Star Treck, quel est le numéro de série du vaisseau Enterprise",
+        "choix": [
+            "NCC-1701",
+            "NCC-7011",
+            "USS-1701",
+            "USS-7100"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Dans la série <i>Ma sorcière bien aimée</i> comment s'appelle la mère de samantha",
+        "choix": [
+            "Tabatha",
+            "Endora",
+            "Clara",
+            "Gladys"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "quel acteur ou quelle actrice de la série Prison Break n'a pas joué de rôle dans Dr House",
+        "choix": [
+            "Robin Tunney",
+            "Wentworth Miller",
+            "Dominic Purcell",
+            "Robert Knepper"
+        ],
+        "reponse": 3
+    },
+    {
+        "question": "Comment s'appelle la prison de la saison 1 de prison break ?",
+        "choix": [
+            "Fox River State Penitentiary",
+            "Ilinois State Penitentiary",
+            "Chicago State Penitentiary",
+            "Old Joliet Prison"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Quel est le titre du premier épisode de la série buffy contre les vampires ?",
+        "choix": [
+            "Bienvenue à Sunnydale, partie 1",
+            "Bienvenue en enfer, partie 1",
+            "Un nouveau départ, partie 1",
+            "L'élue, partie 1"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Quelle actrice de la série <i>Buffy Vampire Slayer</i> a également joué dans la série <i>Charmed</i> ",
+        "choix": [
+            "Sarah Michelle Gellar",
+            "Alyson Hannigan",
+            "Charisma Carpenter",
+            "Michelle Trachtenberg"
+        ],
+        "reponse": 2,
+        "info": "Elle joue Cordelia dans Buffy et Kira, la prophétesse dans la saison 7 de Charmed"
+    },
+    {
+        "question": "Comment s'appelle l'hôpital de la série Scrubs",
+        "choix": [
+            "Sacred Heart Hospital",
+            "Johns Hopkins Hospital",
+            "StanFord Hospital",
+            "Massachusetts General Hospital"
+        ],
+        "reponse": 0
+    }
+]

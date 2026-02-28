@@ -1,0 +1,145 @@
+[
+    
+    {
+        "question": "Quel membre n'a pas fait partie du Scooby Gang dans la deuxième saison de <i>Buffy Vampire Slayer</i>",
+        "choix": [
+            "Willow",
+            "Alex",
+            "Cordelia",
+            "Faith"
+        ],
+        "reponse": 3,
+        "info": "Faith n'apparaît qu'à la 3<sup>ième</sup> saison"
+    },
+    {
+        "question": "Comment s'appelle l'antagoniste principal de la première saison de <i>Buffy Vampire Slayer</i>",
+        "choix": [
+            "Spike",
+            "Le Maître",
+            "Drusila",
+            "La Force"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "En quelle année est sortie la série <i>Sliders : Les mondes parallèles</i>",
+        "choix": [
+            "1995",
+            "1996",
+            "1997",
+            "1998"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Quel acteur de la série Sliders joue également un Rôle dans Indiana Jones",
+        "choix": [
+            "Jerry O'Connell",
+            "Robert Floyd",
+            "John Rhys-Davies",
+            "Charlie O'Connell"
+        ],
+        "reponse": 2,
+        "info": "Information de la question"
+    },
+    {
+        "question": "Comment s'appelle le protagoniste de la série K-2000 au début de la série éponyme",
+        "choix": [
+            "Michael Knight",
+            "Michael Long",
+            "Wilton Knight",
+            "Garth Lang"
+        ],
+        "reponse": 1,
+        "info": "Michael Long est gravement blessé à la tête et fortement défiguré dans l'exercice de ses fonctions. La fondation du milliardaire Wilton Knight prend en charge son hospitalisation et s'arrange pour lui donner le visage du son fils Gareth Knight avec lequel il est en froid.<br>Michael Long est déclaré mort et reprend l'identité Michael Knight"
+    },
+    {
+        "question": "quel est le modèle de voiture utilisé pour la série K2000",
+        "choix": [
+            "Chevrolet Camaro",
+            "Pontiac Firebird",
+            "Ford Mustang",
+            "Dodge Challenger"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "En quelle année est apparu le premier épisode de MacGuyver",
+        "choix": [
+            "1984",
+            "1985",
+            "1994",
+            "1995"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "Comment s'appelle l'association pour laquelle travaille McGyver",
+        "choix": [
+            "Fondation Phoenix",
+            "ONU",
+            "Fondation Cristal",
+            "Marvels Association"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Quel était le grade de Samantha Carter dans le premier épisode de StarGate SG1",
+        "choix": [
+            "Lieutenant Colonel",
+            "Capitaine",
+            "Major",
+            "Colonel"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "Quel était le grade de Spoke dans la série Original Star Trek",
+        "choix": [
+            "Lieutenant",
+            "Second Maître",
+            "Major",
+            "Commandant"
+        ],
+        "reponse": 3
+    },
+    {
+        "question": "Quel acteur de la série charmed tiens un des rôles principaux dans la série Nip/Tuk",
+        "choix": [
+            "Julian McMahon",
+            "Ted W. King",
+            "Greg Vaughan",
+            "Dorian Gregory"
+        ]
+    },
+    {
+        "question": "A partir de quel saison Paige apparaît-elle ?",
+        "choix": [
+            "Saison 4",
+            "Saison 5",
+            "Saison 6",
+            "Saison 7"
+        ]
+    },
+    {
+        "question": "A partir de quel saison Pheobe acquiert-elle le pouvoir de Lévitation ?",
+        "choix": [
+            "Saison 2",
+            "Saison 3",
+            "Saison 4",
+            "Saison 5"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "Comment s'appelle le père de Piper",
+        "choix": [
+            "Alan",
+            "Kilian",
+            "Victor",
+            "Peter"
+        ],
+        "reponse": 2,
+        "info": "Victor Bennett"
+    }
+]

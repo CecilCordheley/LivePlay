@@ -1,0 +1,139 @@
+[
+    {
+        "question": "Quelle chanson reprise par Sinéad O'Connor a d'abord été interprétée par Prince & The Family",
+        "choix": [
+            "Purple Rain",
+            "Little Red Corvette",
+            "Kiss",
+            "Nothing Compares 2 U"
+        ],
+        "reponse": 3
+    },
+    {
+        "question": "Dans quel album de queen sortie en 1977 entend-t-on les titre We Will Rock You et We are the Champions",
+        "choix": [
+            "News of the World",
+            "A Night at the opera",
+            "Made In Heaven",
+            "A kind of magic"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Quel artiste de jazz connu pour son scat est l'interprète de Minnie de Moocher",
+        "choix": [
+            "Cab Calloway",
+            "Duke Ellington",
+            "Louis Armstrong",
+            "Count Basie"
+        ],
+        "reponse": 0,
+        "media": "MinnieMoocher.wav"
+    },
+    {
+        "question": "Lequel de ces titres de Queen n'a pas était joué du concert Live Aids de 1985",
+        "choix": [
+            "Bohemian Rhapsody",
+            "We Are the Champions",
+            "Hammer to Fall",
+            "A Kind Of Magic"
+        ],
+        "reponse": 3,
+        "infos": "\"A Kind Of Magic est sortie en 1986\""
+    },
+    {
+        "question": "Qui interprète pour la première fois \"Ma drôle de Vie\"",
+        "choix": [
+            "Veronique Sanson",
+            "France Gall",
+            "Juliette Gréco",
+            "Françoise Hardy"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Quelle chanson de France Gall n'a pas était composé par Serge Gainsbourg",
+        "choix": [
+            "Poupée de cire, poupée de son",
+            "Laisse tomber les filles",
+            "Les sucettes",
+            "Évidemment"
+        ],
+        "reponse": 3,
+        "infos": "\"Évidemment\" a été composé par Michel Berger"
+    },
+    {
+        "question": "Quel jazzman et son orchéstre a intérprété pour la première fois <i>Take the A train</i>",
+        "choix": [
+            "Cab Calloway",
+            "Duke Ellington",
+            "Louis Armstrong",
+            "Count Basie"
+        ],
+        "reponse": 1,
+        "media": "TakeATrain.wav"
+    },
+    {
+        "question": "Lequel de ces artiste n'a pas interprété \"Zero Janvier\" dans la comédie musicale Starmania",
+        "choix": [
+            "Claude Dubois",
+            "Daniel Balavoine",
+            "Richard Groulx",
+            "Michel McLean"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "Où se déroule l'action de la comédie musicale \"Starmania\"",
+        "choix": [
+            "Monopolis",
+            "Metropolis",
+            "Megapolis",
+            "Minéapolis"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Lequel de ces titres n'a pas été parodié par weird al yankovic",
+        "choix": [
+            "My Sharona",
+            "Beat it",
+            "Gangsta's paradise",
+            "La Isla Bonita"
+        ],
+        "reponse": 3
+    },
+    {
+        "question": "De quel titre Gangsta's paradise est-il une reprise",
+        "choix": [
+            "Future Paradise",
+            "PastTime Paradise",
+            "NoTime Paradise",
+            "BadTime Paradise"
+        ],
+        "reponse": 1,
+        "infos": "PastTime paradise est une chanson de Stevie Wonder parue en 1976"
+    },
+    {
+        "question": "Lequel de ces titres n'est pas une interpolation du canon de Pachebel",
+        "choix": [
+            "Go West (Village People)",
+            "PastTime paradise (Stevie Wonder)",
+            "Tout tout pour ma chérie (Michel Polnaref)",
+            "Memories (Maroon 5)"
+        ],
+        "reponse": 1,
+        "infos": "PastTime Paradise est une interpolation du prélude n°2 en C Minor de Bach"
+    },
+    {
+        "question": "Quel surnom Quincy Jones donnait à Micheal Jackson",
+        "choix": [
+            "Bambi",
+            "Smelly",
+            "King of the Pop",
+            "Micky"
+        ],
+        "reponse": 1,
+        "infos": "Quincy Jones l'avait surnomé ainsi car il ne prononçait jamais le mot \"<i>funky</i>\" mais \"<i>smelly jelly</i>\""
+    }
+]

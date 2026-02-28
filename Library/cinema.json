@@ -1,0 +1,202 @@
+[
+    {
+        "question": "Dans le film <i>Reservoir Dog</i>, quel duo arrive en premier dans l'entrepot ?",
+        "choix": [
+            "M. White et M. Orange",
+            "M. Brown et M. Pink",
+            "M. Blonde et M. Blue",
+            "M. Brown et M. Blonde"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Dans le film <i>Reservoir Dog</i>, Comment s'appelle M. Orange ?",
+        "choix": [
+            "Larry",
+            "Joe",
+            "Freddy",
+            "Eddie"
+        ],
+        "reponse": 2
+    },{
+        "question":"Dans le film \"<i>Faut pas prendre les enfants du bon Dieu pour des canards sauvages</i>\" à qui Rita fait-elle appel pour récupérer l'argent qu'on lui a volé",
+        "choix":[
+            "Léontine",
+            "Charles",
+            "Fred",
+            "Raoul"
+        ],
+        "reponse":0,
+        "info":"Raoult (<i>Incarné par Raoult saint Yves</i>)dévalise le fourgon, puis se fait doubler par Fred(<i>incarné par André Pousse</i>), qui se fait à son tour doublé par Rita (<i>Marlène Jobert</i>) et Charles(<i>Bernard Blier</i>) qui double Rita laquelle appelle ça tante Léontine (<i>Françoise Rosay</i>) pour récupérer l'argent"
+    },
+    {
+        "question": "Dans le film <i>Cube</i> Comment s'appelle le policier ?",
+        "choix": [
+            "Vincent",
+            "Quentin",
+            "Kazan",
+            "Holloway"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "Dans le film <i>Cube</i>, Quel personnage parvient à sortir du cube ?",
+        "choix": [
+            "Worth",
+            "Quentin",
+            "Kazan",
+            "Leaven"
+        ],
+        "reponse": 2
+    },
+    {
+        "question": "Dans le film <i>Cube</i>, Comment s'appelle l'expert en évasion ?",
+        "choix": [
+            "Worth",
+            "Rennes",
+            "Kazan",
+            "Leaven"
+        ],
+        "reponse": 1
+    },{
+        "question": "Quel est le point commun entre le film <i>Grimlins</i> et <i>retour vers le future</i>",
+        "choix": [
+            "La voiture",
+            "Le réalisateur",
+            "La place de l'hotel de ville",
+            "Le premier rôle feminin"
+        ],
+        "reponse": 2,
+        "info": "Les deux films on été tournés dans le même studio donc on la même place d'hotel de ville"
+    },{
+        "question": "La quelle de ces règles n'est pas une des règles du film Grimlins",
+        "choix": [
+            "Le tenir éloigner de l'eau",
+            "Ne pas le laisser regarder la télé",
+            "Ne pas le nourrir avant minuit",
+            "Ne jamais l'exposer à la lumière"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "Qui a réalisé le Film Dune de 1984",
+        "choix": [
+            "David Linch",
+            "Alejandro Jodorosky",
+            "Ridley Scott",
+            "George Lucas"
+        ],
+        "joker": [
+            1,
+            3
+        ],
+        "reponse": 0,
+        "info": "Le projet \"dune\" d'après le livre de Frank Herbet a été proposé à de nombreux réalisateurs"
+    },{
+        "question": "Comment s'appelle le boutiquier qui vend Gismo dans le film <i>Grimlins</i>",
+        "choix": [
+            "M. Wang",
+            "M. Wing",
+            "M. Wung",
+            "M. Wong"
+        ],
+        "reponse": 1
+    },{
+        "question": "Qui a réalisé le film <i>Ne nous fachons pas</i> avec Lino Ventura",
+        "choix": [
+            "Georges Lautner",
+            "Jacques Loiseleux",
+            "Michel Audiard",
+            "Jean-Pierre Mocky"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Combien y a t-il eu de réalisateurs pour les films Harry Potter",
+        "choix": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "joker": [
+            1,
+            3
+        ],
+        "reponse": 2,
+        "info": "list:Chris Columbus|Alfonso Cuarón|Mike Newell|David Yates"
+    },
+    {
+        "question": "En quelle année est sortie le film \"autant en emporte le vent\"",
+        "choix": [
+            1936,
+            1937,
+            1938,
+            1939
+        ],
+        "joker": [
+            0,
+            1
+        ],
+        "reponse": 3
+    },
+    {
+        "question": "Qui réalise le film \"l'empire contre attaque\"",
+        "choix": [
+            "George Lucas",
+            "Irvin Kershner",
+            "Ridley Scott",
+            "Alejandro Jodorosky"
+        ],
+        "joker": [
+            2,
+            3
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "Qui interprète le role titre dans le film Rocky Horror Picture Show",
+        "choix": [
+            "Tim Curry",
+            "Peter Hinwood",
+            "Richard O'Brien",
+            "Barry Bostwick"
+        ],
+        "joker": [
+            2,
+            3
+        ],
+        "reponse": 1,
+        "info": "C'est Peter HinWood qui incarne \"Rocky Horror\" mais c'est Tim Curry qui prend le role principal \"D<sup>r</sup> Frank-N-Furter\""
+    },
+    {
+        "question": "En quelle année est sortie le film <i>Blade Runner</i> ?",
+        "choix": [
+            "1981",
+            "1982",
+            "1983",
+            "1984"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "Quand se déroulent les événements du film <i>Blade Runner</i> ?",
+        "choix": [
+            "2010",
+            "2012",
+            "2015",
+            "2019"
+        ],
+        "reponse": 3
+    },{
+        "question":"Dans le film <i>Blade Runner</i> Quel est le nom du test permetant de detecter les replicants",
+        "choix":["test de Turing","test de Voight-Kampff","test de Goostman","test de Kamski"],
+        "reponse":1
+    },{
+        "question":"Quel replicant est abattu avant Roy dans le film <i>Blade Runner</i> ?",
+        "choix":[
+            "Pris","Rachel","Leon","Zhora"
+        ],
+        "reponse":0
+    }
+]

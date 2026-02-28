@@ -1,0 +1,217 @@
+[
+    {
+        "question": "Quel est le titre du premier épisode de la série buffy contre les vampires ?",
+        "choix": [
+            "Bienvenue à Sunnydale, partie 1",
+            "Bienvenue en enfer, partie 1",
+            "Un nouveau départ, partie 1",
+            "L'élue, partie 1"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Quelle actrice de la série <i>Buffy Vampire Slayer</i> a également joué dans la série <i>Charmed</i> ",
+        "choix": [
+            "Sarah Michelle Gellar",
+            "Alyson Hannigan",
+            "Charisma Carpenter",
+            "Michelle Trachtenberg"
+        ],
+        "reponse": 2,
+        "info": "Elle joue Cordelia dans Buffy et Kira, la prophétesse dans la saison 7 de Charmed"
+    },
+    {
+        "question": "Quel membre n'a pas fait partie du Scooby Gang dans la deuxième saison de <i>Buffy Vampire Slayer</i>",
+        "choix": [
+            "Willow",
+            "Alex",
+            "Cordelia",
+            "Faith"
+        ],
+        "reponse": 3,
+        "info": "Faith n'apparaît qu'à la 3<sup>ième</sup> saison"
+    },
+    {
+        "question": "Comment s'appelle l'antagoniste principal de la première saison de <i>Buffy Vampire Slayer</i>",
+        "choix": [
+            "Spike",
+            "Le Maître",
+            "Drusila",
+            "La Force"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "Quel était le prénom de Spike",
+        "choix": [
+            "David",
+            "Henri",
+            "William",
+            "Arthur"
+        ],
+        "reponse": 2,
+        "info": "William Pratt"
+    },
+    {
+        "question": "A partir quelle saison Spike rejoint le <i>scooby gang</i>",
+        "choix": [
+            "Saison 2",
+            "Saison 3",
+            "Saison 4",
+            "Saison 5"
+        ],
+        "reponse": 2
+    },
+    {
+        "question": "Dans quelle saison Angel n'apparaît pas",
+        "choix": [
+            "saison 4",
+            "saison 5",
+            "saison 6",
+            "saison 7"
+        ],
+        "reponse": 2
+    },
+    {
+        "question": "Dans quelle saison Dawn apparaît-elle pour la première fois",
+        "choix": [
+            "saison 3",
+            "saison 4",
+            "saison 5",
+            "saison 6"
+        ],
+        "reponse": 3
+    },
+    {
+        "question": "Quel personnage de la série ne voit pas son interprète jouer un rôle dans la série Supernatural",
+        "choix": [
+            "Spike",
+            "Cordelia",
+            "Angel",
+            "Darla"
+        ],
+        "reponse": 2,
+        "info": "list:James Master (Spike) joue Don Stark dans l'épisode \"Shut Up, Dr. Phil\"|Charisma Carpenter (Cordelia) joue Maggie Stark également dans \"Shut Up, Dr. Phil\"|Julie Benz (Darla) joue Layla Rourke dans l'épisode \"Faith\""
+    },
+    {
+        "question": "Au cours de quel saison apparaît pour la première fois \"l'initiative\"",
+        "choix": [
+            "saison 2",
+            "Saison 3",
+            "Saison 4",
+            "Saison 5"
+        ],
+        "reponse": 2
+    },
+    {
+        "question": "Quel instrument joue Oz dans les <i>dingoes ate my baby</i>",
+        "choix": [
+            "basse",
+            "guitar",
+            "batterie",
+            "saxophone"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "Quelle est le prénom de Oz, le copain de Willow",
+        "choix": [
+            "Oscar",
+            "Daniel",
+            "Alexender",
+            "Harry"
+        ],
+        "reponse": 1,
+        "info": "Daniel Osbourne dit \"Oz\""
+    },
+    {
+        "question": "Au cours de quelle saison Willow devient \"Dark Willow\"",
+        "choix": [
+            "Saison 4",
+            "Saison 5",
+            "Saison 6",
+            "Saison 7"
+        ],
+        "reponse": 2
+    },
+    {
+        "question": "Dans quel épisode apparaît Faith pour la première fois",
+        "choix": [
+            "La Nouvelle Petite Sœur",
+            "Révelation",
+            "Intolérance",
+            "El Eliminati"
+        ]
+    },
+    {
+        "question": "Lors du rituel de Janus en quoi se transforme Alex",
+        "choix": [
+            "Pirate",
+            "Pilote",
+            "Soldat",
+            "Pompier"
+        ],
+        "reponse": 2
+    },
+    {
+        "question": "Dans la saison 4, qui volent la voix de tous les habitants de la ville pour la condamner au silence.",
+        "choix": [
+            "les gentlemen",
+            "les Slandermen",
+            "les voice cutters",
+            "les monks of silence"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Quel personnage n'a pas fait partie de l'ordre d'Ordre d'Aurelius",
+        "choix": [
+            "Angelus",
+            "Le Maître",
+            "Darla",
+            "Luke"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Quel surnom spike donne t-il à Dawn Summers",
+        "choix": [
+            "Chaton",
+            "Tétard",
+            "Poussin",
+            "Biche"
+        ],
+        "reponse": 2
+    },
+    {
+        "question": "En quel demon le maire Wilkins devient-il l'incarnation lors de la saison 3",
+        "choix": [
+            "Olvikan",
+            "Olvhikan",
+            "Olvikhan",
+            "Olvykhan"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Quel membre de la famille de Buffy meurt en milieu tué par un Der Kindestod",
+        "choix": [
+            "Sa cousine",
+            "Sa nièce",
+            "Sa soeur",
+            "Sa mère"
+        ],
+        "reponse": 0,
+        "info": "le Der Kindestod est un démon qui s'attaque aux enfants malades"
+    },
+    {
+        "question": "Comment s'appelle le proviseur du Lycée de Sunnydale dans le premier épisode de la saison 1",
+        "choix": [
+            "Snyder",
+            "Glover",
+            "Skinner",
+            "Flutie"
+        ],
+        "reponse": 3
+    }
+]

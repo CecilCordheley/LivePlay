@@ -1,0 +1,176 @@
+[
+    {
+        "question": "Combien y a t-il de personnages jouable dans <i>Final Fantasy VII</i>",
+        "choix": [
+            6,
+            7,
+            8,
+            9
+        ],
+        "reponse": 3,
+        "info": "list:Cloud|Barret|Tifa|Aeris|Red XIII|Cait Sith|Cid|Vincent|Yuffie"
+    },
+    {
+        "question": "Dans le jeu Final Fantasy VIII combien de Universités existe t-il ?",
+        "choix": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "reponse": 1,
+        "info": "list:Balamb Garden University|Galbadia Garden Unervisity|Trabia Garden University"
+    },
+    {
+        "question": "Lors de son limit break, quel sort de Selphie permet de restaurer les HP des combatants",
+        "choix": [
+            "Joobu",
+            "Wall",
+            "Arkange",
+            "The End"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Dans le jeu Final Fantasy VIII, quelle edition du Fanzine des Fanas des Flingues permet d'obtenir <i>Lion Heart</i>",
+        "choix": [
+            "Fevrier",
+            "Mars",
+            "Avril",
+            "Mai"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Dans quel monde se déroule les évènements de Final Fantasy VII",
+        "choix": [
+            "Ivalice",
+            "Spira",
+            "Gaia",
+            "Hydaelyn"
+        ],
+        "reponse": 2
+    },
+    {
+        "question": "Dans le jeu Final Fantasy X, dans quel temple peut-on obtenir <i>Anima</i>",
+        "choix": [
+            "Temple de Remiem",
+            "Temple de Baaj",
+            "Temple de Djose",
+            "Temple de Kilika"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "Dans le jeu Final Fantasy X, qui est Cid pour Yuna",
+        "choix": [
+            "Son beau père",
+            "Son oncle",
+            "Son parrain",
+            "Son grand père"
+        ],
+        "reponse": 1,
+        "info": "Cid est le frère de la mère de Yuna"
+    },
+    {
+        "question": "Dans le jeu Final Fantasy X, quelle récompense obtient-on après avoir esquivé 50 éclairs d'affilés dans la pleine foudroyée",
+        "choix": [
+            "2 Spheres MP",
+            "3 Spheres HP",
+            "Sceau de Mars",
+            "3 Spheres Force"
+        ],
+        "reponse": 3
+    },
+    {
+        "question": "Dans le jeu Final Fantasy II, dans quelle ville peut-on récupérer le Air Ship",
+        "choix": [
+            "Poft",
+            "Paloom",
+            "Altair",
+            "Fynn"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Dans le jeu Final Fantasy II, quel personnage disparaît aprés la première bataille",
+        "choix": [
+            "Firion",
+            "Maria",
+            "Guy",
+            "Leon"
+        ],
+        "reponse": 3
+    },
+    {
+        "question": "Dans le jeu Final Fantasy II, quel personnage fournit un canoë en se joignant à l'équipe",
+        "choix": [
+            "Minwu",
+            "Paul",
+            "Joseph",
+            "Gordon"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Laquelle de ces classes n'est pas obtenue grâce au Cristal de l'Eau",
+        "choix": [
+            "Berserk",
+            "Mage Bleu",
+            "Mage Rouge",
+            "Invokeur"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "Combien y a t-il d'espers dans le jeu Final fantasy VI ?",
+        "choix": [
+            "25",
+            "26",
+            "27",
+            "28"
+        ],
+        "reponse": 2
+    },
+    {
+        "question": "Quel boss afronte t-on à Zozo ?",
+        "choix": [
+            "Dadaluma",
+            "Gigantos",
+            "Humbaba",
+            "Dullahan"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Dans le jeu Final Fantasy VI, quel rôle doit incarner Celes au cours de la phase de l'opéra",
+        "choix": [
+            "Maria",
+            "Serah",
+            "Palome",
+            "Rosa"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Quel personnage de Final Fantasy VII est une possible référence à un personnage du film la malediction",
+        "choix": [
+            "Heidegger",
+            "Bugenhagen",
+            "Biggs",
+            "Wedge"
+        ],
+        "reponse": 1,
+        "info": "Karl Bugenhagen interprété par Leo McKern est un archéologue et exorciste qui joue un rôle important en aidant le protagoniste à comprendre la véritable identité de Damien, ses origine et comment le vaincre"
+    },
+    {
+        "question": "A partir de quel jeu les Moogle font-ils leur apparition ?",
+        "choix": [
+            "Final Fantasy III",
+            "Final Fantasy IV",
+            "Final fantasy V",
+            "Final Fantasy VI"
+        ],
+        "reponse": 2
+    }
+]

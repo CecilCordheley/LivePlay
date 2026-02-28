@@ -1,0 +1,202 @@
+[
+    {
+        "question": "Qui est le réalisateur du film Freak sortie en 1932?",
+        "choix": [
+            "F.W. Murnau",
+            "Tod Browning",
+            "Fritz Lang",
+            "Charlie Chaplin"
+        ],
+        "joker": [
+            0,
+            3
+        ],
+        "reponse": 1,
+        "info": "Freaks la parade monstrueuse est un film sortie en 1932 metant en scène des artistes issus du Barnum Museum"
+    },
+    {
+        "question": "Dans le film <i>Pulp Fiction</i> comment s'appelle le truand à qui rendent visite Jule et Vincent au début du film",
+        "choix": [
+            "Ringo",
+            "Brett",
+            "Roger",
+            "Marvin"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "Dans le film <i>Pulp Fiction</i> qui offre la montre en or à Butch",
+        "choix": [
+            "Capitaine Koons",
+            "Lieutenant Coolidge",
+            "Marcellus",
+            "Fabienne"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "En quelle année est sortie le film <i>Reservoir Dog</i> ?",
+        "choix": [
+            "1992",
+            "1993",
+            "1994",
+            "1995"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Dans le film <i>Reservoir Dog</i>, qui incarne M. Brown ?",
+        "choix": [
+            "Harvey Keitel",
+            "Michael Madsen",
+            "Edward Bunker",
+            "Quentin Tarantino"
+        ],
+        "reponse": 3
+    },
+    {
+        "question": "Qui a réalisé le Film <i>L'empire contre attaque</i>",
+        "choix": [
+            "Georges Lucas",
+            "Irvin Keshner",
+            "Joe Johnston",
+            "Steven Spielberg"
+        ],
+        "joker": [
+            0,
+            3
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "Quand est sortie le film Independance Day",
+        "choix": [
+            1995,
+            1996,
+            1997,
+            1998
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "En quelle année est sortie le film original <i>Cube</i> ?",
+        "choix": [
+            "1997",
+            "1995",
+            "2002",
+            "2007"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Lequel de ces acteurs n'a pas joué dans le film <i>la Haine</i>",
+        "choix": [
+            "Mathieu Kassovitz",
+            "Vincent Cassel",
+            "Benoît Magimel",
+            "Guillaume Canet"
+        ],
+        "reponse": 3
+    },
+    {
+        "question": "Qui a réalisé le film <i>les promesses de L'ombre</i>",
+        "choix": [
+            "David Lynch",
+            "David Cronenberg",
+            "Michael Haneke",
+            "Lars von Trier"
+        ]
+    },
+    {
+        "question": "Lequel de ces acteurs ou actrices n'a pas joué dans les deux films <i>Charlie et la chocolaterie</i> et <i>Sweeney Todd</i>",
+        "choix": [
+            "Johnny Depp",
+            "Julia Winter",
+            "Helena Bonham Carter",
+            "Christopher Lee"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "Où se situe l'action de \"<i>Fenêtre sur cours</i>\" ?",
+        "choix": [
+            "West Village",
+            "Greenwich Village",
+            "Hell's Kitchen",
+            "East Village"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "Où se situe l'action de \"<i>Sueur Froide</i>\" ?",
+        "choix": [
+            "Chicago",
+            "New York",
+            "San Francisco",
+            "Philadelphie"
+        ],
+        "reponse": 2
+    },
+    {
+        "question": "Où se situe l'action de \"<i>Rocky</i>\" ?",
+        "choix": [
+            "Chicago",
+            "New York",
+            "San Francisco",
+            "Philadelphie"
+        ],
+        "reponse": 3
+    },
+    {
+        "question": "Quel acteur joue à la fois dans les film <i>The Crow</i> et dans <i>Rapid Fire</i>",
+        "choix": [
+            "Brandon Lee",
+            "David Patrick Kelly",
+            "Powers Boothe",
+            "Dustin Nguyen"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "De quoi souffre le protagoniste de \"<i>Sueur Froide</i>\" ?",
+        "choix": [
+            "Agoraphobie",
+            "Cataptophobie",
+            "Acrophobie",
+            "Cenosillicaphobie"
+        ],
+        "reponse": 2,
+        "info": "la Cenosillicaphobie est la peur de se retrouver dans un verre vide. <br>Scottie lui est victime de Acrophobie (peur du vide) suite à une course poursuite sur les toits"
+    },
+    {
+        "question": "Qui Scottie doit suivre en filature dans le film \"<i>Sueur Froide</i>\"",
+        "choix": [
+            "Madeleine",
+            "Judy",
+            "Marjorie",
+            "Gavin"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Dans le film Rocky 3 qui Rocky affronte lors d'un match d'exibition",
+        "choix": [
+            "Spider Rico",
+            "Clubber Lang",
+            "Appolo Creed",
+            "Thunderlips"
+        ],
+        "reponse": 3,
+        "info": "Thunderlips est interprété par Hulk Hogan"
+    },
+    {
+        "question": "Dans quel film de Tarantino Samuel Lee Jackson n'a t-il pas joué",
+        "choix": [
+            "Jackie Brown",
+            "The Hateful Eight",
+            "Pulp Fiction",
+            "From Dusk till Dawn"
+        ],
+        "reponse": 3
+    }
+]
