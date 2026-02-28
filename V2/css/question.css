@@ -1,0 +1,128 @@
+#question {
+    display: flex;
+    width: 75%;
+    background: #111;
+    margin: 15px;
+    flex-direction: column;
+    color: #FFF;
+    padding: 10px;
+}
+
+.questionElement {
+    margin: 10px;
+}
+.command button{
+    color: #FFF;
+}
+.questionElement p {
+    background: var(--mainColor);
+    padding: 10px;
+    font-size: 1.3rem;
+    border-radius: 35px 0;
+}
+
+.questionElement ol {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.questionElement ol li {
+    list-style-type: upper-alpha;
+    width: 40%;
+    background: #335;
+    margin: 5px;
+    opacity: 0;
+    transition: .7s;
+    font-size: 1.3rem;
+    color: #FFF;
+    z-index: 1;
+    transition: .3s;
+    cursor: pointer;
+    position: relative;
+}
+
+.questionElement ol li:hover {
+    transform: scale(1.2);
+}
+
+.questionElement ol li.good {
+    background: #1f581f;
+}
+
+.questionElement ol li span {
+
+    float: right;
+    background: #FF0;
+    display: block;
+    border: 2px solid #33E;
+    padding: 5px;
+    position: absolute;
+    right: -5px;
+    height: auto;
+    /*! bottom: 5px; */
+    top: -5px;
+    color: #33E;
+    filter: drop-shadow(5px 5px 5px #22E);
+}
+
+.questionElement .infoSection {
+    position: absolute;
+    width: 450px;
+    height: auto;
+    background: #AA2;
+    padding: 3px;
+    font-size: 1.3em;
+    bottom: -120px;
+    right: 0;
+    display: none;
+    z-index: 2;
+    padding: 11px;
+    filter: drop-shadow(2px 2px 3px #666);
+}
+
+.questionElement .theme {
+    display: inline-block;
+    width: 25%;
+    border-radius: 20px;
+    background: #FF0;
+    color: #000;
+}
+
+.questionElement .infoSection.show {
+    display: block;
+}
+
+.questionElement ol li.bad {
+    background: #581f1f;
+}
+
+.questionElement ol li.neutral {
+    background: #666;
+}
+
+.questionElement ol li:nth-child(2) {
+    transform: rotateY('20deg');
+}
+
+.loader {
+    border: 5px solid #f3f3f3;
+    /* fond */
+    border-top: 5px solid #3498db;
+    /* couleur de l'animation */
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    margin: 20px auto;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}

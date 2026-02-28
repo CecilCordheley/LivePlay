@@ -1,0 +1,196 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Calibri;
+}
+
+.container {
+    display: grid;
+    grid-template-areas: "header chat"
+        "question chat";
+    width: 1080px;
+    aspect-ratio: 16/9;
+    margin: 0 auto;
+    position: relative;
+    overflow-x: hidden;
+    background: radial-gradient(circle at 30% 30%, #2200ff, #2e2a66, #1c1c28);
+    background-size: 200% 200%;
+    animation: gradientShift 15s ease-in-out infinite alternate;
+
+}
+.container h1{
+    border-bottom: 2px solid #FFF;
+}
+.channelMdl {
+    width: 375px;
+    height: 125px;
+    background: #CCC;
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    padding: 5px;
+}
+
+input {
+    width: auto;
+    padding: 2px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.2rem;
+
+}
+
+#gain {
+    width: 60%;
+    position: relative;
+    display: flex;
+    background: #333;
+    margin: 15px;
+    flex-direction: column;
+}
+
+#gain ul {
+    display: flex;
+    width: 450px;
+    flex-wrap: wrap;
+}
+
+#gain ul li {
+    display: inline-block;
+    background: #FFF;
+    border-radius: 10px;
+    height: 10px;
+    width: 25px;
+    margin: 5px;
+}
+
+#gain ul li.good {
+    background: #0F0;
+}
+
+#gain ul li.bad {
+    background: #F00;
+}
+
+
+.command {
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    width: 45%;
+    background: var(--mainColor);
+    font-size: 1.2rem;
+    border-radius: 11px;
+    border: 4px solid #5656FF;
+    transition: .2s;
+}
+
+button:hover {
+    background: #335;
+    cursor: pointer;
+}
+
+.leaderBoard {
+    position: absolute;
+    width: 450px;
+    height: auto;
+    background: #222;
+    color: #FFF;
+    left: 10%;
+    top: 25%;
+    z-index: 2;
+    filter: drop-shadow(2px 2px 3px #FF0);
+    padding: 5px;
+    opacity: 0;
+    transition: .7s;
+}
+.leaderBoard.show{
+    opacity: 1;
+}
+.leaderBoard h2 {
+    font-size: 1.2em;
+    border-bottom: 2px solid #FFF;
+    margin: 5px;
+    color: #FF0;
+    background: #000;
+    padding: 3px;
+}
+
+.leaderBoard ol {
+    display: flex;
+    align-content: space-between;
+    flex-wrap: wrap;
+    height: 100%;
+}
+
+.leaderBoard ol {
+  counter-reset: section; /* On initialise le compteur ici, une seule fois */
+  list-style: none; /* On supprime le style de liste natif */
+  padding: 0;
+}
+
+.leaderBoard ol li {
+  display: flex;
+  align-items: baseline; /* Pour aligner le texte avec le numéro */
+  margin-left: 20px;
+  border: 1px solid;
+  padding: 15px;
+  width: 75%;
+}
+
+.leaderBoard ol li::before {
+  counter-increment: section; /* On incrémente le compteur */
+  content: counter(section); /* On affiche le numéro */
+  background: #FF0;
+  color: #000;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 43px;
+  /*! height: 23px; */
+  /*! margin-right: 6px; */
+  font-weight: bold;
+  margin: 0px;
+}
+
+
+button:active {
+    color: #FFF;
+}
+
+
+
+.fade-in {
+    animation: appear 0.6s ease-out forwards;
+}
+
+@keyframes appear {
+    0% {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+@keyframes gradientShift {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    100% {
+        background-position: 100% 50%;
+    }
+}
+/*Media Queries*/
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    .container {
+        width: 100%;
+    }
+}
