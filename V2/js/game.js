@@ -91,7 +91,7 @@ class Game {
         this.elements.voteBtn?.addEventListener("click", () => {
             this.elements.voteBtn.style.display = "none";
             this.elements.checkBtn.style.display = "inline-block";
-            this.bot.message("/me viewer can now vote !");
+            this.bot.message("/me Vous pouvez maintenant voter pour la bonne réponse grace à la commande #vote suivi de [A B C ou D] !");
             this.canVote = true;
             this.setTimer();
         });
@@ -283,7 +283,7 @@ class Game {
             this.gain[this.index].classList.add("good");
             this.point++;
         } else {
-            playLose();
+            playLoose();
             this.gain[this.index].classList.add("bad");
         }
         // Met en vert la bonne réponse

@@ -18,16 +18,16 @@
             "Eddie"
         ],
         "reponse": 2
-    },{
-        "question":"Dans le film \"<i>Faut pas prendre les enfants du bon Dieu pour des canards sauvages</i>\" à qui Rita fait-elle appel pour récupérer l'argent qu'on lui a volé",
-        "choix":[
-            "Léontine",
-            "Charles",
-            "Fred",
-            "Raoul"
+    },
+    {
+        "question": "Dans le film \"<i>Matrix</i>\" de quelle couleur est la pilule qui révèle la vérité à Néo ?",
+        "choix": [
+            "Bleue",
+            "Rouge",
+            "Verte",
+            "Jaune"
         ],
-        "reponse":0,
-        "info":"Raoult (<i>Incarné par Raoult saint Yves</i>)dévalise le fourgon, puis se fait doubler par Fred(<i>incarné par André Pousse</i>), qui se fait à son tour doublé par Rita (<i>Marlène Jobert</i>) et Charles(<i>Bernard Blier</i>) qui double Rita laquelle appelle ça tante Léontine (<i>Françoise Rosay</i>) pour récupérer l'argent"
+        "reponse": 1
     },
     {
         "question": "Dans le film <i>Cube</i> Comment s'appelle le policier ?",
@@ -58,7 +58,8 @@
             "Leaven"
         ],
         "reponse": 1
-    },{
+    },
+    {
         "question": "Quel est le point commun entre le film <i>Grimlins</i> et <i>retour vers le future</i>",
         "choix": [
             "La voiture",
@@ -68,7 +69,8 @@
         ],
         "reponse": 2,
         "info": "Les deux films on été tournés dans le même studio donc on la même place d'hotel de ville"
-    },{
+    },
+    {
         "question": "La quelle de ces règles n'est pas une des règles du film Grimlins",
         "choix": [
             "Le tenir éloigner de l'eau",
@@ -92,7 +94,8 @@
         ],
         "reponse": 0,
         "info": "Le projet \"dune\" d'après le livre de Frank Herbet a été proposé à de nombreux réalisateurs"
-    },{
+    },
+    {
         "question": "Comment s'appelle le boutiquier qui vend Gismo dans le film <i>Grimlins</i>",
         "choix": [
             "M. Wang",
@@ -101,15 +104,16 @@
             "M. Wong"
         ],
         "reponse": 1
-    },{
-        "question": "Qui a réalisé le film <i>Ne nous fachons pas</i> avec Lino Ventura",
+    },
+    {
+        "question": "Quel nom porte le marteau de Thor dans le MCU ?",
         "choix": [
-            "Georges Lautner",
-            "Jacques Loiseleux",
-            "Michel Audiard",
-            "Jean-Pierre Mocky"
+            "Stormbreaker",
+            "Mjolnir",
+            "Gungnir",
+            "Vanir"
         ],
-        "reponse": 0
+        "reponse": 1
     },
     {
         "question": "Combien y a t-il eu de réalisateurs pour les films Harry Potter",
@@ -127,18 +131,15 @@
         "info": "list:Chris Columbus|Alfonso Cuarón|Mike Newell|David Yates"
     },
     {
-        "question": "En quelle année est sortie le film \"autant en emporte le vent\"",
+        "question": "Dans <i>Le Seigneur des Anneaux</i>, qui détruit l'Anneau Unique ?",
         "choix": [
-            1936,
-            1937,
-            1938,
-            1939
+            "Frodon",
+            "Aragorn",
+            "Sam",
+            "Gollum"
         ],
-        "joker": [
-            0,
-            1
-        ],
-        "reponse": 3
+        "reponse": 3,
+        "info": "Frodon échoue au dernier moment. C'est Gollum qui tombe avec l'Anneau dans la lave."
     },
     {
         "question": "Qui réalise le film \"l'empire contre attaque\"",
@@ -188,15 +189,25 @@
             "2019"
         ],
         "reponse": 3
-    },{
-        "question":"Dans le film <i>Blade Runner</i> Quel est le nom du test permetant de detecter les replicants",
-        "choix":["test de Turing","test de Voight-Kampff","test de Goostman","test de Kamski"],
-        "reponse":1
-    },{
-        "question":"Quel replicant est abattu avant Roy dans le film <i>Blade Runner</i> ?",
-        "choix":[
-            "Pris","Rachel","Leon","Zhora"
+    },
+    {
+        "question": "Dans le film <i>Blade Runner</i> Quel est le nom du test permetant de detecter les replicants",
+        "choix": [
+            "test de Turing",
+            "test de Voight-Kampff",
+            "test de Goostman",
+            "test de Kamski"
         ],
-        "reponse":0
+        "reponse": 1
+    },
+    {
+        "question": "Quel replicant est abattu avant Roy dans le film <i>Blade Runner</i> ?",
+        "choix": [
+            "Pris",
+            "Rachel",
+            "Leon",
+            "Zhora"
+        ],
+        "reponse": 0
     }
 ]

@@ -24,7 +24,7 @@
 }
 .channelMdl {
     width: 375px;
-    height: 125px;
+    min-height: 125px;
     background: #CCC;
     position: absolute;
     top: 25%;

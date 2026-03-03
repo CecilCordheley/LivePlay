@@ -33,13 +33,15 @@ $cumul=0;
            <list g_area="list">
             <?php
             foreach($file as $f){
-                if($f!=".." && $f!="." && $f!="stat.php" && $f!="simpson.json"&& $f!="reserve.json"&& $f!="test.json"){
+                if($f!="index.php" && $f!=".." && $f!="." && $f!="stat.php" && $f!="simpson.json"&& $f!="reserve.json"&& $f!="test.json"&& $f!="index.json"){
                     $content=json_decode(file_get_contents($f),true);
+                    echo $f;
                     $nb=count($content);
                     echo "<a href='stat.php?file=$f'>$f</a> => $nb questions <br>";
                     $cumul+=$nb;
                 }
                }
+               echo $cumul;
             ?>
            </list>
            <content g_area="content">

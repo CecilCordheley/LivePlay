@@ -1,7 +1,27 @@
 {
-    "musique":["musique.json","musique2.json"],
-    "cinema":["cinema.json","cinema2.json"],
-    "dessin Anime":["dessinAnime.json"],
-    "serie":["serie.json","serie2.json"],
-    "jeux vidéos":["question.json","question2.json","question3.json","question4.json"]   
+    "musique": [
+        "musique.json",
+        "musique2.json"
+    ],
+    "cinema": [
+        "cinema.json",
+        "cinema2.json"
+    ],
+    "Harry potter": [
+        "HarryPotter1.json",
+        "harrypotter2.json"
+    ],
+    "dessin Anime": [
+        "dessinAnime.json"
+    ],
+    "serie": [
+        "serie.json",
+        "serie2.json"
+    ],
+    "jeux vidéos": [
+        "question.json",
+        "question2.json",
+        "question3.json",
+        "question4.json"
+    ]
 }

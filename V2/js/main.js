@@ -12,6 +12,10 @@ var Sound = {
     sndExtract: null,
     sndChrono: null
 }
+/**
+ * Initialise les paramètre du jeu 
+ * réinitilise le tableau des vote, le compteur de vote
+ */
 function initParam() {
     votes = [];
     state.cptVote = 0;
@@ -20,6 +24,9 @@ function initParam() {
         el.innerHTML = 0;
     });
 }
+/**
+ * vérifie si 2 réponses non pas un nombre égals de vote
+ */
 function checkEqual() {
     //  debugger;
     let dataVal = Array.from(document.querySelectorAll("[data-val]"));
@@ -33,6 +40,10 @@ function checkEqual() {
     equal = (dataVal[0].innerHTML == dataVal[1].innerHTML);
     //  console.log(equal);
 }
+/**
+ * Paramètre les pourcentage attribuer au différente réponses
+ * @param {number} val valeur
+ */
 function setPercent(val) {
     let alpha = "ABCD";
     var el = document.querySelectorAll(".questionElement ol li span");

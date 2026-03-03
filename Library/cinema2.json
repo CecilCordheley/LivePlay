@@ -99,13 +99,14 @@
         "reponse": 3
     },
     {
-        "question": "Qui a réalisé le film <i>les promesses de L'ombre</i>",
+        "question": "Dans <i>Star Wars</i>, quel est le vrai nom de Baby Yoda ?",
         "choix": [
-            "David Lynch",
-            "David Cronenberg",
-            "Michael Haneke",
-            "Lars von Trier"
-        ]
+            "Grogu",
+            "Yaddle",
+            "Minch",
+            "Grogo"
+        ],
+        "reponse": 0
     },
     {
         "question": "Lequel de ces acteurs ou actrices n'a pas joué dans les deux films <i>Charlie et la chocolaterie</i> et <i>Sweeney Todd</i>",
